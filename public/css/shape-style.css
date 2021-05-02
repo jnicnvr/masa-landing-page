@@ -1,0 +1,29 @@
+.custom-shape-divider-bottom-1619924878 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1619924878 svg {
+    position: relative;
+    display: block;
+    width: calc(142% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1619924878 .shape-fill {
+    fill: #ffff;
+}
+
+.bg-gradient {
+
+    background: #2C3E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
